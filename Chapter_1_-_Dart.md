@@ -1060,7 +1060,7 @@ The output is -
     This is a test method1
 ## The toString() Method
 
-his function returns a string representation of an object. Take a look at the following example to understand how to use the toString method.
+This function returns a string representation of an object. Take a look at the following example to understand how to use the toString method.
 Example:
 
     void main() { 
@@ -1082,5 +1082,5 @@ The output is -
 - Single threaded to avoid locks and therefore jank.
 - An arm compiler to avoid having another engine running the code on the device (aka React Native).
 
- Dart meets all these requirements. JS (I think) meets all the above pretty closely too, apart from the AOT and JIT compiler part. Saying all of that I can imagine that a JS solution could happen but it might be costly and a more complicated solution. Dart is pretty good and Dart2 has really improved things with inherent type safety. So lets dive into flutter and explore the framework and begin our mobile app journey.
+ Dart meets all these requirements. JS (I think) meets all the above pretty closely too, apart from the AOT and JIT compiler part. Saying all of that I can imagine that a JS solution could happen but it might be costly and a more complicated solution. Dart is pretty good and Dart2 has really improved things with inherent type safety. So let's dive into flutter and explore the framework and begin our mobile app journey.
 
